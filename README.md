@@ -1,2 +1,3 @@
 # CSB_P2
-Project 2 for CSB 320
+
+Project 2 for CSB 320.
